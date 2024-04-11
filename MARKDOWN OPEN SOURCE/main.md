@@ -167,7 +167,7 @@ encuentra información como sus estudios, información sobre su licencia o
 información personal, y por último las opiniones de los usuarios que
 pidieron sus servicios.
 
-<img src="./media/image1.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227827883607719946/1.png?ex=6629d2d3&is=66175dd3&hm=77f9a72f2babde2fcb4bb5855167483666d8ac964e132330743df73ae6b0a481&=&format=webp&quality=lossless&width=597&height=597"
 style="width:3.94792in;height:1.00574in" />
 
 Logotipo del producto
@@ -209,7 +209,7 @@ Logotipo del producto
 
 **Carrera:** Ingeniería de Software
 
-<img src="./media/image2.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227827908501049481/2.png?ex=6629d2d9&is=66175dd9&hm=efff458cd2d57425e8d0e0c2be46793c34c94944d37070f25c7617dde254950e&=&format=webp&quality=lossless"
 style="width:1.97917in;height:2.59375in" />
 
 Acerca de mí: Conocimientos técnicos de programación en C++, PHP,
@@ -226,7 +226,7 @@ entregas.
 
 **Carrera**: Ingeniería de Software
 
-<img src="./media/image3.png" style="width:2.54167in;height:2.5625in" />
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227827927803105330/3.png?ex=6629d2dd&is=66175ddd&hm=dccf5fc4fb915ae995492c7bd6d3b34a437445a7dc22210dd501185239d7183d&=&format=webp&quality=lossless" style="width:2.54167in;height:2.5625in" />
 
 Soy un estudiante de Ingeniería de Software, tengo 21 años y vivo en
 Lima. Mis pasatiempos son hacer deporte, jugar videojuegos y escuchar
@@ -241,7 +241,7 @@ todo lo posible para la elaboración y desarrollo del trabajo.
 
 **Carrera**: Ingeniería de Software
 
-<img src="./media/image4.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227827969758855220/4.png?ex=6629d2e7&is=66175de7&hm=7f5c3678d791767faa062c94082e9dd876dec1aaedd575e6ffb7c7b21810b8e5&=&format=webp&quality=lossless"
 style="width:3.38021in;height:3.06148in" />
 
 Mi nombre es Diego Acuña y soy estudiante de la carrera de ingeniería de
@@ -256,7 +256,7 @@ especializarme en data science y tener mi propia empresa en el futuro.
 
 **Carrera**: Ingeniería de Software
 
-<img src="./media/image5.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227827991392817183/5.png?ex=6629d2ed&is=66175ded&hm=4b4303a0fc952a7957e9e1a80f88190b9d465c372b8c5283673010926cafac52&=&format=webp&quality=lossless"
 style="width:1.93229in;height:2.91667in" />
 
 Tengo 21 años y estoy estudiando la carrera de Ingeniería Informática.
@@ -272,7 +272,7 @@ necesidades.
 
 **Carrera**: Ingeniería de Software
 
-<img src="./media/image6.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828012939083796/6.png?ex=6629d2f2&is=66175df2&hm=b1eace91007f69ee9ca8c008c32ed5e436b9093abf07358d6a583761b58b2e68&=&format=webp&quality=lossless"
 style="width:2.37959in;height:3.22396in" />
 
 Descripción: Soy Max Anthony y tengo 27 años. Estoy retomando Ingeniería
@@ -561,7 +561,7 @@ meses.
 
 #### 1.2.2.4. Lean UX Canvas.
 
-<img src="./media/image7.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828039212208221/7.png?ex=6629d2f8&is=66175df8&hm=ef6e64fcc4744c4f0e92db63cad06557d418f17376f04431285a5f59d1de7a97&=&format=webp&quality=lossless&width=550&height=311"
 style="width:6.26772in;height:3.54167in" />
 
 Ver a detalle en el anexo 1
@@ -596,19 +596,19 @@ Ver a detalle en el anexo 1
 > ⮚ **Get Your Guide:**
 > [**<u>https://www.getyourguide.es/</u>**](https://www.getyourguide.es/)
 
-<img src="./media/image8.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828092777529385/8.png?ex=6629d305&is=66175e05&hm=883169426c9a65a400afa8fe7d7a1931f5ede8afb458e6acc963a685823332ee&=&format=webp&quality=lossless"
 style="width:5.58489in;height:2.67755in" />
 
 > ⮚ **Tours By Locals:**
 > [**<u>https://www.toursbylocals.com/</u>**](https://www.toursbylocals.com/)
 
-<img src="./media/image9.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828121840123945/9.png?ex=6629d30c&is=66175e0c&hm=247cd6ff8f76690a8a1987c8fb83d2a59abc8a6c1f599086a92517d636a5b3f0&=&format=webp&quality=lossless"
 style="width:5.72396in;height:2.76608in" />
 
 > ⮚ **Viator:**
 > [**<u>https://www.viator.com/es-PE/</u>**](https://www.viator.com/es-PE/)
 
-<img src="./media/image10.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828197924671549/10.png?ex=6629d31e&is=66175e1e&hm=14a0f7635df9e53667e8272e7e5b7e540719fbe26d36c18307985316833d1af3&=&format=webp&quality=lossless"
 style="width:6.02604in;height:2.91292in" />
 
 ### 2.1.1. Análisis competitivo.
@@ -691,13 +691,13 @@ beneficien a nuestro proyecto.</td>
 <td colspan="2"></td>
 <td><strong>Nombre empresa</strong></td>
 <td><p><strong>Get Your Guide</strong></p>
-<p><img src="./media/image11.png"
+<p><img src="https://media.discordapp.net/attachments/1226580112670064641/1227828214810939402/11.png?ex=6629d322&is=66175e22&hm=d95791e5790fbe66a968799c8a8b00de66c2a16ba4ac6047443d789b6021b023&=&format=webp&quality=lossless"
 style="width:0.75941in;height:0.66227in" /></p></td>
 <td><p><strong>Tours By Locals</strong></p>
-<p><img src="./media/image12.png"
+<p><img src="https://media.discordapp.net/attachments/1226580112670064641/1227828238177538048/12.png?ex=6629d327&is=66175e27&hm=c5a72382b2cc43368ee2d9ce90822737727e3d204a2679d78d9322d54f9d89a3&=&format=webp&quality=lossless"
 style="width:0.89583in;height:0.25in" /></p></td>
 <td><p><strong>Viator</strong></p>
-<p><img src="./media/image13.png"
+<p><img src="https://media.discordapp.net/attachments/1226580112670064641/1227828255445356584/13.png?ex=6629d32c&is=66175e2c&hm=9b19a712c6406176aacee997fb71d00778a3fb5830d31a9e712b257ad58f2a96&=&format=webp&quality=lossless"
 style="width:0.89583in;height:0.36111in" /></p></td>
 </tr>
 <tr class="even">
@@ -1196,12 +1196,12 @@ muchas veces les ha dado mal de altura, vómitos, náuseas, etc.
 
 Segmento 1 (Turista):
 
-<img src="./media/image14.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828275490066473/14.png?ex=6629d330&is=66175e30&hm=c148d38d48214410c553f6bab2110245a91f25548a3807408727d84540e0b93d&=&format=webp&quality=lossless&width=385&height=597"
 style="width:6.26772in;height:9.70833in" />
 
 Segmento 2 (Guía turístico):
 
-<img src="./media/image15.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828297891578007/15.png?ex=6629d336&is=66175e36&hm=33e782335db31f4f089545840fc0463544facf4fb1b8f4543f3421695ef72f47&=&format=webp&quality=lossless&width=418&height=597"
 style="width:6.26772in;height:8.94444in" />
 
 ### 2.3.2. User Task Matrix. 
@@ -1243,24 +1243,24 @@ style="width:6.26772in;height:8.94444in" />
 
 Segmento 1 (Turista):
 
-<img src="./media/image16.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828322348830770/16.png?ex=6629d33b&is=66175e3b&hm=a7f15e3ff123e62d8680bf9276341a759fd7d5d15db9633f4a8fd6a34a1b392d&=&format=webp&quality=lossless&width=530&height=350"
 style="width:5.54167in;height:4.13542in" />
 
 Segmento 2 (Guía turístico):
 
-<img src="./media/image17.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828346226872350/17.png?ex=6629d341&is=66175e41&hm=079a0b71de79278c89f31639b33c84a73d6080c3f13791d233bd9afaf7d5b3c1&=&format=webp&quality=lossless&width=544&height=350"
 style="width:6.26772in;height:4.02778in" />
 
 ### 2.3.4. Empathy Mapping. 
 
 Segmento 1 (Turista):
 
-<img src="./media/image18.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828377944199189/18.png?ex=6629d349&is=66175e49&hm=94376a56d12220a31d63e89e12160b2d85e79beb996061d30ebc53578526e11e&=&format=webp&quality=lossless&width=486&height=597"
 style="width:6.26772in;height:7.69444in" />
 
 Segmento 2 (Guía turístico):
 
-<img src="./media/image19.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828400505225358/19.png?ex=6629d34e&is=66175e4e&hm=51b1e6d56fc1d799776409f1a9a6d455801a6624620ea39fb52725782b3010c1&=&format=webp&quality=lossless&width=454&height=597"
 style="width:6.26772in;height:8.23611in" />
 
 ### 2.3.5. As-is Scenario Mapping. 
@@ -2428,14 +2428,14 @@ realizar esta acción
 
 Segmento 1:
 
-<img src="./media/image20.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828421464297583/20.png?ex=6629d353&is=66175e53&hm=207f2301816820f15685f1de87bcdcf14980cdfbb4da82115af9af8763b578da&=&format=webp&quality=lossless"
 style="width:6.26772in;height:2.95833in" />
 
 Ver a detalle en el anexo 2 - segmento 1
 
 Segmento 2:
 
-<img src="./media/image21.png" style="width:6.26772in;height:3.15278in" />
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828438363017226/21.png?ex=6629d357&is=66175e57&hm=bc51dfd0ee6814b8cf1003974bd3b6580086b8a94ed9bd92820b8093b50a80c9&=&format=webp&quality=lossless" style="width:6.26772in;height:3.15278in" />
 
 Ver a detalle en el anexo 2 - segmento 2
 
@@ -2913,12 +2913,12 @@ emplearán al momento de transitar por la página.
 
 ### 4.3.1. Landing Page Wireframe. 
 
-<img src="./media/image22.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828460202885220/22.png?ex=6629d35c&is=66175e5c&hm=81c63813be5b42c846ee0c62be1223d5a26468299773782dd48bf0821ea6edba&=&format=webp&quality=lossless&width=1255&height=597"
 style="width:6.26772in;height:2.98611in" />
 
 ### 4.3.2. Landing Page Mock-up. 
 
-<img src="./media/image23.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828487969177630/23.png?ex=6629d363&is=66175e63&hm=48b0104ac6a6ec46c701997a0080c343afc7fae9033cc365607e12eec54867f3&=&format=webp&quality=lossless&width=1253&height=597"
 style="width:6.26772in;height:2.98611in" />
 
 ## 4.4. Web Applications UX/UI Design. 
@@ -2949,16 +2949,16 @@ en general, así como el desarrollo del landing page.
 
 ### 4.6.1. Software Architecture Context Diagram. 
 
-<img src="./media/image24.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828533783433246/24.png?ex=6629d36e&is=66175e6e&hm=fccb59120da056ef86836e876b08936036303cb948472c06629a7c2cc6352d24&=&format=webp&quality=lossless&width=975&height=597"
 style="width:6.26772in;height:3.84722in" />
 
 ### 4.6.2. Software Architecture Container Diagrams. 
 
-<img src="./media/image25.png" style="width:6.26772in;height:5.125in" />
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828553819750460/25.png?ex=6629d373&is=66175e73&hm=ff432346f1f32b594e40645c7e5726f9e8c23fe0ef2dadaa67fc152e3f0ac2f2&=&format=webp&quality=lossless&width=731&height=597" style="width:6.26772in;height:5.125in" />
 
 ### 4.6.3. Software Architecture Components Diagrams. 
 
-<img src="./media/image26.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828572731740231/26.png?ex=6629d377&is=66175e77&hm=ba726ec0d8ac02f6ed1d001a886c27ba633193a30347a2954208c0e576a3277f&=&format=webp&quality=lossless&width=987&height=597"
 style="width:6.26772in;height:3.79167in" />
 
 ## 4.7. Software Object-Oriented Design. 
@@ -3152,10 +3152,10 @@ fundamentales como inicio, servicios y contacto:
 
 [<u>https://emprendimiento-ballenita.github.io/LandingPage/</u>](https://emprendimiento-ballenita.github.io/LandingPage/)
 
-<img src="./media/image27.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828595573919825/27.png?ex=6629d37d&is=66175e7d&hm=1b52bbcb45cfbc1b8438f0ed2922f8cafbdcfbe12d3f389a0906455c65328ac5&=&format=webp&quality=lossless&width=723&height=597"
 style="width:5.82292in;height:4.63021in" />
 
-<img src="./media/image28.png" style="width:6in;height:4.66146in" />
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828617871101952/28.png?ex=6629d382&is=66175e82&hm=5768d30536df3f009d99f357b2011577f64a17e5abf2850a0252bad1ae99dc5d&=&format=webp&quality=lossless&width=418&height=350" style="width:6in;height:4.66146in" />
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -3166,7 +3166,7 @@ web service en este sprint.
 
 El landing page ha sido desplegado con GitHub:
 
-<img src="./media/image29.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828642407518258/29.png?ex=6629d388&is=66175e88&hm=4c9f90b9486ebd4c7645f60b144cd092128942fbf15c348c19033b8687c9e01f&=&format=webp&quality=lossless"
 style="width:6.26772in;height:1.68056in" />
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
@@ -3175,10 +3175,10 @@ Dado que el primer sprint se centra en la documentación y el landing
 page, pocas personas se encargaron del desarrollo de la primera versión
 del landing page:
 
-<img src="./media/image30.png"
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828661986656370/30.png?ex=6629d38c&is=66175e8c&hm=87403f16266c0be3d2f9ef6294b4b709ab30bd4ec8d8fc150fb88729fedf4902&=&format=webp&quality=lossless"
 style="width:6.26772in;height:2.47222in" />
 
-<img src="./media/image31.png" style="width:6.26772in;height:3.375in" />
+<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828675798630500/31.png?ex=6629d390&is=66175e90&hm=7fbe8db5e4f43b76ae3ab7707a01fe9e74c2d5d43540f6c6250b05213a245302&=&format=webp&quality=lossless&width=1111&height=597" style="width:6.26772in;height:3.375in" />
 
 ## Conclusiones:
 
