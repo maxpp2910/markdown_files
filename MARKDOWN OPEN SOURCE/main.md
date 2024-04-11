@@ -1005,7 +1005,7 @@ medio, ya conocen todos los detalles de tus recorridos?
 <tbody>
 <tr class="odd">
 <td>Cliente o Turista</td>
-<td><strong><mark>Descripción</mark></strong></td>
+<td><strong>Descripción</strong></td>
 </tr>
 <tr class="even">
 <td><p><strong>Entrevista #1</strong></p>
@@ -1014,10 +1014,10 @@ medio, ya conocen todos los detalles de tus recorridos?
 <p><strong>Link del video evidenciando la entrevista : <a
 href="https://drive.google.com/file/d/1nTkm4sO2U1nq2i-vFnWVnu-L5zuo4nmJ/view?usp=drive_link"><u>Link
 de la entrevista</u></a></strong></p></td>
-<td><p><mark><strong>Edad</strong>: 25 años</mark></p>
-<p><mark><strong>Ciudad</strong>: Lima</mark></p>
-<p><mark><strong>Profesión</strong>: Estudiante de Ciencias de la
-computación</mark></p></td>
+<td><p><strong>Edad</strong>: 25 años</p>
+<p><strong>Ciudad</strong>: Lima</p>
+<p><strong>Profesión</strong>: Estudiante de Ciencias de la
+computación</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Entrevista #2</strong></p>
@@ -1026,11 +1026,11 @@ computación</mark></p></td>
 <p><strong>Link del video evidenciando la entrevista : <a
 href="https://drive.google.com/file/d/1LXyRAs1fXEObiug3tRdK0ZP2e2DeZGW5/view?usp=drive_link"><u>Link
 de la entrevista</u></a></strong></p>
-<p><mark></mark></p></td>
-<td><p><mark><strong>Edad</strong>: 21 años</mark></p>
-<p><mark><strong>Ciudad</strong>: Lima</mark></p>
-<p><mark><strong>Profesión</strong>: Ingeniero de Software</mark></p>
-<p><mark></mark></p></td>
+<p></p></td>
+<td><p><strong>Edad</strong>: 21 años</p>
+<p><strong>Ciudad</strong>: Lima</p>
+<p><strong>Profesión</strong>: Ingeniero de Software</p>
+<p></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Entrevista #3</strong></p>
@@ -1039,10 +1039,10 @@ de la entrevista</u></a></strong></p>
 <p><strong>Link del video evidenciando la entrevista : <a
 href="https://drive.google.com/file/d/1w3EgYezBSTRnM6X2BL9EHVpnZeylz7co/view?usp=sharing"><u>Link
 de la Entrevista</u></a></strong></p></td>
-<td><p><mark><strong>Edad</strong>: 21 años</mark></p>
-<p><mark><strong>Ciudad</strong>: Lima</mark></p>
-<p><mark><strong>Profesión</strong>: Estudiante de Ingeniería de
-sistemas</mark></p></td>
+<td><p><strong>Edad</strong>: 21 años</p>
+<p><strong>Ciudad</strong>: Lima</p>
+<p><strong>Profesión</strong>: Estudiante de Ingeniería de
+sistemas</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Entrevista #4</strong></p>
@@ -1051,10 +1051,10 @@ sistemas</mark></p></td>
 <p><strong>Link del video evidenciando la entrevista : <a
 href="https://youtu.be/XJjxEI7jeQY"><u>Link de la
 entrevista</u></a></strong></p></td>
-<td><p><mark><strong>Edad</strong>: 21 años</mark></p>
-<p><mark><strong>Ciudad</strong>: Lima</mark></p>
-<p><mark><strong>Profesión</strong>: Estudiante de Ingeniería
-Civil</mark></p></td>
+<td><p><strong>Edad</strong>: 21 años</p>
+<p><strong>Ciudad</strong>: Lima</p>
+<p><strong>Profesión</strong>: Estudiante de Ingeniería
+Civil</p></td>
 </tr>
 </tbody>
 </table>
@@ -1069,7 +1069,7 @@ Civil</mark></p></td>
 <tr class="odd">
 <td><strong>Guía turístico</strong></td>
 <td></td>
-<td><strong><mark>Descripción</mark></strong></td>
+<td><strong>Descripción</strong></td>
 </tr>
 <tr class="even">
 <td><p><strong>Entrevista #1</strong></p>
@@ -1079,18 +1079,18 @@ Civil</mark></p></td>
 <p><strong><a
 href="https://www.youtube.com/watch?v=Zw5uVPyu938"><u>https://www.youtube.com/watch?v=Zw5uVPyu938</u></a></strong></p></td>
 <td></td>
-<td><p><mark><strong>Edad:</strong> 22</mark></p>
-<p><mark><strong>Ciudad:</strong> Canta</mark></p>
-<p><mark><strong>Profesión</strong>: Estudiante de Guía oficial del
-turismo</mark></p></td>
+<td><p><strong>Edad:</strong> 22</p>
+<p><strong>Ciudad:</strong> Canta</p>
+<p><strong>Profesión</strong>: Estudiante de Guía oficial del
+turismo</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Entrevista #2</strong></p>
 <p><strong>Nombre del entrevistado:</strong></p>
 <p><strong>Link del video evidenciando la entrevista :</strong></p>
-<p><mark></mark></p></td>
+<p></p></td>
 <td></td>
-<td><mark></mark></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1782,10 +1782,10 @@ cliente de lo que esperaba]</p>
 <tr class="even">
 <td>US01</td>
 <td>Registrar <strong>turista</strong></td>
-<td><mark><strong>Como</strong> <strong>turista</strong>,
+<td><strong>Como</strong> <strong>turista</strong>,
 <strong>quiero</strong> poder registrarme en la plataforma
 <strong>para</strong> acceder a todas las funcionalidades y servicios
-disponibles</mark></td>
+disponibles</td>
 <td><p><strong>ESCENARIO:</strong> Registro exitoso como turista</p>
 <p><strong>Dado que</strong> el turista desea registrarse en la
 plataforma web</p>
@@ -1806,10 +1806,10 @@ y tendrá que corregirlo</p></td>
 <tr class="odd">
 <td>US02</td>
 <td>Autenticar cuenta de <strong>turista</strong></td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 autenticar mi cuenta utilizando mis credenciales <strong>para</strong>
 acceder a mi perfil y realizar acciones en la plataforma web de manera
-segura</mark></td>
+segura</td>
 <td><p><strong>ESCENARIO:</strong> Autenticación de cuenta turista
 exitosa</p>
 <p><strong>Dado que</strong> el turista tiene que autenticar su
@@ -1824,10 +1824,10 @@ para confirmar su cuenta.</p></td>
 <tr class="even">
 <td>US03</td>
 <td>Registrar guía</td>
-<td><mark><strong>Como</strong> guía, <strong>quiero</strong> poder
+<td><strong>Como</strong> guía, <strong>quiero</strong> poder
 registrarme en la plataforma proporcionando la información necesaria
 <strong>para</strong> crear un perfil completo y ofrecer mis servicios
-como guía turístico</mark></td>
+como guía turístico</td>
 <td><p><strong>ESCENARIO:</strong> Registro exitoso como guía</p>
 <p><strong>Dado que</strong> el guía desea registrarse en la plataforma
 web</p>
@@ -1849,10 +1849,10 @@ y tendrá que corregirlo</p></td>
 <tr class="odd">
 <td>US04</td>
 <td>Autenticar cuenta de guía</td>
-<td><mark><strong>Como</strong> guía, <strong>quiero</strong> poder
+<td><strong>Como</strong> guía, <strong>quiero</strong> poder
 autenticar mi cuenta utilizando mis credenciales <strong>para</strong>
 acceder a mi perfil y gestionar mi información como guía
-turístico</mark></td>
+turístico</td>
 <td><p><strong>ESCENARIO:</strong> Autenticación de cuenta turista
 exitoso</p>
 <p><strong>Dado que</strong> el guía tiene que autenticar su cuenta</p>
@@ -1866,10 +1866,10 @@ confirmar su cuenta.</p></td>
 <tr class="even">
 <td>US05</td>
 <td>Iniciar sesión</td>
-<td><mark><strong>Como</strong> guía/turista, <strong>quiero</strong>
+<td><strong>Como</strong> guía/turista, <strong>quiero</strong>
 poder iniciar sesión en la plataforma con mis credenciales
 <strong>para</strong> acceder a mi cuenta y utilizar todas las
-funcionalidades disponibles</mark></td>
+funcionalidades disponibles</td>
 <td><p><strong>ESCENARIO:</strong> Inicio de sesión exitoso</p>
 <p><strong>Dado que</strong> el guía/turista quiere iniciar sesión en la
 plataforma web</p>
@@ -1891,9 +1891,9 @@ para que pueda corregir los datos ingresados</p></td>
 <tr class="odd">
 <td>US06</td>
 <td>Restablecer contraseña</td>
-<td><mark><strong>Como</strong> guía/turista, <strong>quiero</strong>
+<td><strong>Como</strong> guía/turista, <strong>quiero</strong>
 tener la opción de restablecer mi contraseña <strong>para</strong> poder
-ingresar a mi cuenta cuando tenga problemas</mark></td>
+ingresar a mi cuenta cuando tenga problemas</td>
 <td><p><strong>ESCENARIO:</strong> Obtención de mensaje de correo</p>
 <p><strong>Dado que</strong> el guía/turista quiere restablecer su
 contraseña</p>
@@ -1915,10 +1915,10 @@ confirme el cambio de contraseña</p></td>
 <tr class="even">
 <td>US07</td>
 <td>Gestionar certificación de guía</td>
-<td><mark><strong>Como</strong> guía, <strong>quiero</strong> poder
+<td><strong>Como</strong> guía, <strong>quiero</strong> poder
 gestionar mi certificación proporcionando la documentación necesaria y
 siguiendo los procesos establecidos <strong>para</strong> validar mi
-estatus como guía oficial</mark></td>
+estatus como guía oficial</td>
 <td><p><strong>ESCENARIO:</strong> Gestión de la certificación de guía
 exitoso</p>
 <p><strong>Dado que</strong> el guía desea gestionar su certificación
@@ -1941,9 +1941,9 @@ requisitos</p></td>
 <tr class="odd">
 <td>US08</td>
 <td>Configurar datos de usuario</td>
-<td><mark><strong>Como</strong> guía/turista, <strong>quiero</strong>
+<td><strong>Como</strong> guía/turista, <strong>quiero</strong>
 poder configurar y actualizar mi información personal en mi perfil
-<strong>para</strong> mantenerla actualizada y precisa</mark></td>
+<strong>para</strong> mantenerla actualizada y precisa</td>
 <td><p><strong>ESCENARIO:</strong> Modificación de datos personales</p>
 <p><strong>Dado que</strong> el guía/turista desea modificar sus datos
 personales</p>
@@ -1957,9 +1957,9 @@ los anteriores</p></td>
 <tr class="even">
 <td>US09</td>
 <td>Eliminar cuenta</td>
-<td><mark><strong>Como</strong> guía/turista, <strong>quiero</strong>
+<td><strong>Como</strong> guía/turista, <strong>quiero</strong>
 tener la opción de eliminar permanentemente mi cuenta de la plataforma
-<strong>para</strong> cuando deje de usar la plataforma web</mark></td>
+<strong>para</strong> cuando deje de usar la plataforma web</td>
 <td><p><strong>ESCENARIO:</strong> Eliminación de cuenta</p>
 <p><strong>Dado que</strong> el guía/turista desea eliminar su cuenta,
 por motivos propios</p>
@@ -1973,10 +1973,10 @@ plataforma</p></td>
 <tr class="odd">
 <td>US10</td>
 <td>Cerrar sesión</td>
-<td><mark><strong>Como</strong> guía/turista, <strong>quiero</strong>
+<td><strong>Como</strong> guía/turista, <strong>quiero</strong>
 poder cerrar sesión en la plataforma <strong>para</strong> proteger mi
 privacidad y seguridad cuando no esté utilizando activamente la
-plataforma web</mark></td>
+plataforma web</td>
 <td><p><strong>ESCENARIO:</strong> Cierre de sesión exitoso</p>
 <p><strong>Dado que</strong> el guía/turista desea cerrar su sesión</p>
 <p><strong>Cuando</strong> el guía/turista haga clic en “Cerrar
@@ -1988,10 +1988,10 @@ plataforma web</p></td>
 <tr class="even">
 <td>US11</td>
 <td>Buscar guía</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 buscar guías turísticos utilizando diferentes criterios como destino,
 idioma y especialización <strong>para</strong> encontrar el guía
-adecuado <strong>para</strong> mis necesidades de viaje</mark></td>
+adecuado <strong>para</strong> mis necesidades de viaje</td>
 <td><p><strong>ESCENARIO:</strong> Búsqueda de guía turístico por
 destino</p>
 <p><strong>Dado que</strong> el turista quiere buscar un guía turístico
@@ -2016,10 +2016,10 @@ turísticos disponibles de acuerdo con los criterios planteados</p></td>
 <tr class="odd">
 <td>US12</td>
 <td>Filtrar búsqueda de guías</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 aplicar filtros avanzados a mis búsquedas de guías turísticos, como la
 disponibilidad, las valoraciones y los precios, <strong>para</strong>
-refinar los resultados según mis preferencias</mark></td>
+refinar los resultados según mis preferencias</td>
 <td><p><strong>ESCENARIO:</strong> Filtrar guías de acuerdo con el
 precio</p>
 <p><strong>Dado que</strong> el turista ha realizado una búsqueda de
@@ -2043,10 +2043,10 @@ turísticos mejor valorados en la plataforma web</p></td>
 <tr class="even">
 <td>US13</td>
 <td>Ver información personal del guía</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 ver la información detallada y el perfil completo de un guía turístico,
 incluyendo su experiencia, especialidades y valoraciones de otros
-turistas</mark></td>
+turistas</td>
 <td><p><strong>ESCENARIO:</strong> Ver información básica del guía
 turístico</p>
 <p><strong>Dado que</strong> el turista ha realizado una búsqueda de
@@ -2072,10 +2072,10 @@ tiempo de recorrido, sus rutas, entre otros</p></td>
 <tr class="odd">
 <td>US14</td>
 <td>Administrar lista de favoritos de guías</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 guardar guías turísticos en una lista de favoritos <strong>para</strong>
 poder acceder rápidamente a ellos y planificar futuros
-viajes</mark></td>
+viajes</td>
 <td><p><strong>ESCENARIO:</strong> Seleccionar un guía turístico como
 favorito</p>
 <p><strong>Dado que</strong> el turista ha realizado una búsqueda de
@@ -2109,10 +2109,10 @@ favoritos</p></td>
 <tr class="even">
 <td>US15</td>
 <td>Contratar servicio del guía</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 contratar los servicios de un guía turístico directamente desde la
 plataforma, seleccionando el tour deseado y realizando el pago,
-<strong>para</strong> no perder tiempo</mark></td>
+<strong>para</strong> no perder tiempo</td>
 <td><p><strong>ESCENARIO:</strong> Seleccionar guía por el tour</p>
 <p><strong>Dado que</strong> el turista ha elegido al guía</p>
 <p><strong>Cuando</strong> el turista de clic en “Seleccionar guía”</p>
@@ -2123,10 +2123,10 @@ sección “contratar”, donde se encuentra el pago</p></td>
 <tr class="odd">
 <td>US16</td>
 <td>Reservar servicio del guía</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 reservar un servicio de guía turístico en una fecha y hora específicas,
 asegurando así mi disponibilidad y la del guía <strong>para</strong> la
-experiencia de viaje</mark></td>
+experiencia de viaje</td>
 <td><p><strong>ESCENARIO:</strong> Realizar reserva del servicio de un
 guía</p>
 <p><strong>Dado que</strong> el turista ha encontrado un guía adecuado
@@ -2150,11 +2150,11 @@ guía seleccionado</p></td>
 <tr class="even">
 <td>US17</td>
 <td>Pagar servicio</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 realizar el pago por los servicios del guía turístico de manera segura y
 conveniente a través de la plataforma, utilizando métodos de pago
 confiables, <strong>para</strong> no tener problemas de
-robos</mark></td>
+robos</td>
 <td><p><strong>ESCENARIO:</strong> Pagar servicio con tarjeta</p>
 <p><strong>Dado que</strong> el turista ya seleccionó un guía para
 contratar sus servicios</p>
@@ -2177,11 +2177,11 @@ dichos aplicativos, para que proceda a cancelar</p></td>
 <tr class="odd">
 <td>US18</td>
 <td>Generar recibo electrónico</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> recibir
+<td><strong>Como</strong> turista, <strong>quiero</strong> recibir
 un recibo detallado por los servicios contratados con el guía turístico,
 incluyendo información sobre el tour, las fechas y el costo total,
 <strong>para</strong> tener pruebas del pago hecho ante posibles
-problemas</mark></td>
+problemas</td>
 <td><p><strong>ESCENARIO:</strong> Generar recibo</p>
 <p><strong>Dado que</strong> el turista ya realizó el pago del servicio
 del guía turístico</p>
@@ -2201,11 +2201,11 @@ formato pdf</p></td>
 <tr class="even">
 <td>US19</td>
 <td>Revisar valoraciones y reseñas sobre guías</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 leer las valoraciones y reseñas dejadas por otros
 <strong>turista</strong>s sobre los guías turísticos,
 <strong>para</strong> tomar decisiones informadas al elegir un guía para
-mi viaje</mark></td>
+mi viaje</td>
 <td><p><strong>ESCENARIO:</strong> Revisar reseñas del guía</p>
 <p><strong>Dado que</strong> el usuario quiere revisar las reseñas de
 otros usuarios que dejaron para un guía</p>
@@ -2217,11 +2217,11 @@ usuarios</p></td>
 <tr class="odd">
 <td>US20</td>
 <td>Generar valoraciones y reseñas sobre guías</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> tener
+<td><strong>Como</strong> turista, <strong>quiero</strong> tener
 la opción de dejar una valoración y reseña sobre mi experiencia con un
 guía turístico después de completar un tour, <strong>para</strong>
 compartir mi opinión y ayudar a otros <strong>turista</strong>s en su
-elección</mark></td>
+elección</td>
 <td><p><strong>ESCENARIO:</strong> Calificar servicio con estrellas</p>
 <p><strong>Dado que</strong> el guía ya brindó el servicio</p>
 <p><strong>Cuando</strong> el turista quiera realizar una valoración del
@@ -2242,11 +2242,11 @@ del guía</p></td>
 <tr class="even">
 <td>US21</td>
 <td>Compartir Experiencias en redes sociales</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> tener
+<td><strong>Como</strong> turista, <strong>quiero</strong> tener
 la opción de compartir mis experiencias de viaje y tours con un guía
 turístico en mis redes sociales directamente desde la plataforma
 <strong>para</strong> que mis conocidos vean el servicio
-brindado</mark></td>
+brindado</td>
 <td><p><strong>ESCENARIO:</strong> Compartir reseña en redes
 sociales</p>
 <p><strong>Dado que</strong> el turista dejó su reseña del guía en su
@@ -2261,10 +2261,10 @@ social que eligió</p></td>
 <tr class="odd">
 <td>US22</td>
 <td>Gestionar servicio de turista</td>
-<td><mark><strong>Como</strong> guía, <strong>quiero</strong> tener la
+<td><strong>Como</strong> guía, <strong>quiero</strong> tener la
 capacidad de gestionar las reservas y solicitudes de servicios de
 turistas, <strong>para</strong> garantizar una planificación y ejecución
-eficientes de los tours</mark></td>
+eficientes de los tours</td>
 <td><p><strong>ESCENARIO:</strong> Gestionar horario disponible</p>
 <p><strong>Dado que</strong> el guía necesita gestionar el horario en el
 que puede trabajar</p>
@@ -2286,11 +2286,11 @@ contrató, comunicando la información deseada</p></td>
 <tr class="even">
 <td>US23</td>
 <td>Ver métricas de rendimiento</td>
-<td><mark><strong>Como</strong> guía, <strong>quiero</strong> tener
+<td><strong>Como</strong> guía, <strong>quiero</strong> tener
 acceso a métricas de rendimiento, <strong>Como</strong> el número de
 tours realizados, la satisfacción del cliente y las valoraciones
 recibidas, <strong>para</strong> evaluar y mejorar mi desempeño como
-guía turístico</mark></td>
+guía turístico</td>
 <td><p><strong>ESCENARIO:</strong> Ver historial de tours realizados por
 fecha</p>
 <p><strong>Dado que</strong> el guía necesita revisar la cantidad de
@@ -2312,11 +2312,11 @@ valoraciones que ha recibido desde su registro</p></td>
 <tr class="odd">
 <td>US24</td>
 <td>Ver historial de turistas atendidos</td>
-<td><mark><strong>Como</strong> guía, <strong>quiero</strong> tener
+<td><strong>Como</strong> guía, <strong>quiero</strong> tener
 acceso a un historial de turistas que he atendido en el pasado,
 incluyendo sus datos de contacto y detalles de los tours realizados,
 <strong>para</strong> mantener un registro organizado y poder brindar un
-mejor servicio en futuras interacciones</mark></td>
+mejor servicio en futuras interacciones</td>
 <td><p><strong>ESCENARIO:</strong> Ver historial de turistas que lo
 contrataron</p>
 <p><strong>Dado que</strong> el guía necesita revisar la lista de
@@ -2339,11 +2339,11 @@ información del servicio a dicho turista</p></td>
 <tr class="even">
 <td>US25</td>
 <td>Personalizar ofertas</td>
-<td><mark><strong>Como</strong> guía, <strong>quiero</strong> tener la
+<td><strong>Como</strong> guía, <strong>quiero</strong> tener la
 capacidad de personalizar las ofertas y los itinerarios de los tours
 según las preferencias y necesidades específicas de los turistas,
 <strong>para</strong> ofrecer experiencias de viaje más personalizadas y
-memorables</mark></td>
+memorables</td>
 <td><p><strong>ESCENARIO:</strong> Personalizar ofertas</p>
 <p><strong>Dado que</strong> el guía necesita ofrecer ofertas para
 atraer turistas</p>
@@ -2358,9 +2358,9 @@ servicios, que le ayudarán a atraer más turistas</p></td>
 <tr class="odd">
 <td>US26</td>
 <td>Ver detalles generales del servicio</td>
-<td><mark><strong>Como</strong> visitante, <strong>quiero</strong> poder
+<td><strong>Como</strong> visitante, <strong>quiero</strong> poder
 ver detalles generales del landing page <strong>para</strong> tener un
-panorama general de lo ofrecido en la plataforma web.</mark></td>
+panorama general de lo ofrecido en la plataforma web.</td>
 <td><p><strong>ESCENARIO:</strong> Ver pantalla principal del landing
 page</p>
 <p><strong>Dado que</strong> el visitante quiere ingresar al landing
@@ -2373,9 +2373,9 @@ landing page, siendo la parte superior</p></td>
 <tr class="even">
 <td>US27</td>
 <td>Ver misión y visión del proyecto</td>
-<td><mark><strong>Como</strong> visitante, <strong>quiero</strong> poder
+<td><strong>Como</strong> visitante, <strong>quiero</strong> poder
 ver la misión y visión del proyecto, <strong>para</strong> poder revisar
-los valores de la empresa y poder usar sus servicios</mark></td>
+los valores de la empresa y poder usar sus servicios</td>
 <td><p><strong>ESCENARIO:</strong> Ver misión y visión</p>
 <p><strong>Dado que</strong> el visitante quiere revisar la misión y
 visión del proyecto</p>
@@ -2388,10 +2388,10 @@ misión y visión al visitante</p></td>
 <tr class="odd">
 <td>US28</td>
 <td>Revisar los servicios ofrecidos</td>
-<td><mark><strong>Como</strong> visitante, <strong>quiero</strong> tener
+<td><strong>Como</strong> visitante, <strong>quiero</strong> tener
 acceso a pestaña de comunidad, donde pueda observar comentarios de
 usuarios de la plataforma web, <strong>para</strong> poder animarme a
-usarla</mark></td>
+usarla</td>
 <td><p><strong>ESCENARIO:</strong> Ver servicios ofrecidos</p>
 <p><strong>Dado que</strong> el visitante quiere revisar que servicios
 se ofrecen por la empresa</p>
@@ -2404,10 +2404,10 @@ sección de servicios</p></td>
 <tr class="even">
 <td>US29</td>
 <td>Obtener contacto con los administradores</td>
-<td><mark><strong>Como</strong> visitante, <strong>quiero</strong> tener
+<td><strong>Como</strong> visitante, <strong>quiero</strong> tener
 la opción de ponerme en contacto con los administradores de la
 plataforma <strong>para</strong> realizar consultas, reportar problemas
-o solicitar asistencia adicional cuando sea necesario</mark></td>
+o solicitar asistencia adicional cuando sea necesario</td>
 <td><p><strong>ESCENARIO:</strong> Obtener contacto con los
 administradores por correo</p>
 <p><strong>Dado que</strong> el visitante quiere ponerse en contacto con
@@ -2465,293 +2465,293 @@ realizar las acciones.
 <td>1</td>
 <td>US01</td>
 <td>Usuario quiere registrarse en la aplicación.</td>
-<td><mark><strong>Como</strong> <strong>turista</strong>,
+<td><strong>Como</strong> <strong>turista</strong>,
 <strong>quiero</strong> poder registrarme en la plataforma
 <strong>para</strong> acceder a todas las funcionalidades y servicios
-disponibles</mark></td>
+disponibles</td>
 <td>3</td>
 </tr>
 <tr class="odd">
 <td>2</td>
 <td>US03</td>
 <td>Registrar guía</td>
-<td><mark><strong>Como</strong> guía, <strong>quiero</strong> poder
+<td><strong>Como</strong> guía, <strong>quiero</strong> poder
 registrarme en la plataforma proporcionando la información necesaria
 <strong>para</strong> crear un perfil completo y ofrecer mis servicios
-como guía turístico</mark></td>
+como guía turístico</td>
 <td>3</td>
 </tr>
 <tr class="even">
 <td>3</td>
 <td>US02</td>
 <td>Autenticar cuenta de turista</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 autenticar mi cuenta utilizando mis credenciales <strong>para</strong>
 acceder a mi perfil y realizar acciones en la plataforma web de manera
-segura</mark></td>
+segura</td>
 <td>2</td>
 </tr>
 <tr class="odd">
 <td>4</td>
 <td>US04</td>
 <td>Autenticar cuenta de guía</td>
-<td><mark><strong>Como</strong> guía, <strong>quiero</strong> poder
+<td><strong>Como</strong> guía, <strong>quiero</strong> poder
 autenticar mi cuenta utilizando mis credenciales <strong>para</strong>
 acceder a mi perfil y gestionar mi información como guía
-turístico.</mark></td>
+turístico.</td>
 <td>2</td>
 </tr>
 <tr class="even">
 <td>5</td>
 <td>US05</td>
 <td>Iniciar sesión</td>
-<td><mark><strong>Como</strong> guía/turista, <strong>quiero</strong>
+<td><strong>Como</strong> guía/turista, <strong>quiero</strong>
 poder iniciar sesión en la plataforma con mis credenciales
 <strong>para</strong> acceder a mi cuenta y utilizar todas las
-funcionalidades disponibles.</mark></td>
+funcionalidades disponibles.</td>
 <td>3</td>
 </tr>
 <tr class="odd">
 <td>6</td>
 <td>US06</td>
 <td>Restablecer contraseña</td>
-<td><mark><strong>Como</strong> guía/turista, <strong>quiero</strong>
+<td><strong>Como</strong> guía/turista, <strong>quiero</strong>
 tener la opción de restablecer mi contraseña <strong>para</strong> poder
-ingresar a mi cuenta cuando tenga problemas.</mark></td>
+ingresar a mi cuenta cuando tenga problemas.</td>
 <td>5</td>
 </tr>
 <tr class="even">
 <td>7</td>
 <td>US07</td>
 <td>Gestionar certificación de guía</td>
-<td><mark><strong>Como</strong> guía, <strong>quiero</strong> poder
+<td><strong>Como</strong> guía, <strong>quiero</strong> poder
 gestionar mi certificación proporcionando la documentación necesaria y
 siguiendo los procesos establecidos <strong>para</strong> validar mi
-estatus como guía oficial</mark></td>
+estatus como guía oficial</td>
 <td>3</td>
 </tr>
 <tr class="odd">
 <td>8</td>
 <td>US08</td>
 <td>Configurar datos de usuario</td>
-<td><mark><strong>Como</strong> guía/turista, <strong>quiero</strong>
+<td><strong>Como</strong> guía/turista, <strong>quiero</strong>
 poder configurar y actualizar mi información personal en mi perfil
-<strong>para</strong> mantenerla actualizada y precisa</mark></td>
+<strong>para</strong> mantenerla actualizada y precisa</td>
 <td>3</td>
 </tr>
 <tr class="even">
 <td>9</td>
 <td>US09</td>
 <td>Eliminar cuenta</td>
-<td><mark><strong>Como</strong> guía/turista, <strong>quiero</strong>
+<td><strong>Como</strong> guía/turista, <strong>quiero</strong>
 tener la opción de eliminar permanentemente mi cuenta de la plataforma
-<strong>para</strong> cuando deje de usar la plataforma web</mark></td>
+<strong>para</strong> cuando deje de usar la plataforma web</td>
 <td>5</td>
 </tr>
 <tr class="odd">
 <td>10</td>
 <td>US10</td>
 <td>Cerrar sesión</td>
-<td><mark><strong>Como</strong> guía/turista, <strong>quiero</strong>
+<td><strong>Como</strong> guía/turista, <strong>quiero</strong>
 poder cerrar sesión en la plataforma <strong>para</strong> proteger mi
 privacidad y seguridad cuando no esté utilizando activamente la
-plataforma web</mark></td>
+plataforma web</td>
 <td>2</td>
 </tr>
 <tr class="even">
 <td>11</td>
 <td>US11</td>
 <td>Buscar guía</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 buscar guías turísticos utilizando diferentes criterios como destino,
 idioma y especialización <strong>para</strong> encontrar el guía
-adecuado <strong>para</strong> mis necesidades de viaje</mark></td>
+adecuado <strong>para</strong> mis necesidades de viaje</td>
 <td>5</td>
 </tr>
 <tr class="odd">
 <td>12</td>
 <td>US12</td>
 <td>Filtrar búsqueda de guías</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 aplicar filtros avanzados a mis búsquedas de guías turísticos, como la
 disponibilidad, las valoraciones y los precios, <strong>para</strong>
-refinar los resultados según mis preferencias</mark></td>
+refinar los resultados según mis preferencias</td>
 <td>8</td>
 </tr>
 <tr class="even">
 <td>13</td>
 <td>US13</td>
 <td>Ver información personal del guía</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 ver la información detallada y el perfil completo de un guía turístico,
 incluyendo su experiencia, especialidades y valoraciones de otros
-turistas</mark></td>
+turistas</td>
 <td>1</td>
 </tr>
 <tr class="odd">
 <td>14</td>
 <td>US14</td>
 <td>Administrar favoritos y listas de deseos de guías</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 guardar guías turísticos en una lista de favoritos <strong>para</strong>
 poder acceder rápidamente a ellos y planificar futuros
-viajes</mark></td>
+viajes</td>
 <td>2</td>
 </tr>
 <tr class="even">
 <td>15</td>
 <td>US15</td>
 <td>Contratar servicio del guía</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 contratar los servicios de un guía turístico directamente desde la
 plataforma, seleccionando el tour deseado y realizando el pago,
-<strong>para</strong> no perder tiempo</mark></td>
+<strong>para</strong> no perder tiempo</td>
 <td>3</td>
 </tr>
 <tr class="odd">
 <td>16</td>
 <td>US16</td>
 <td>Reservar servicio del guía</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 reservar un servicio de guía turístico en una fecha y hora específicas,
 asegurando así mi disponibilidad y la del guía <strong>para</strong> la
-experiencia de viaje</mark></td>
+experiencia de viaje</td>
 <td>5</td>
 </tr>
 <tr class="even">
 <td>17</td>
 <td>US17</td>
 <td>Pagar servicio</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 realizar el pago por los servicios del guía turístico de manera segura y
 conveniente a través de la plataforma, utilizando métodos de pago
 confiables, <strong>para</strong> no tener problemas de
-robos</mark></td>
+robos</td>
 <td>5</td>
 </tr>
 <tr class="odd">
 <td>18</td>
 <td>US18</td>
 <td>Generar recibo</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> recibir
+<td><strong>Como</strong> turista, <strong>quiero</strong> recibir
 un recibo detallado por los servicios contratados con el guía turístico,
 incluyendo información sobre el tour, las fechas y el costo total,
 <strong>para</strong> tener pruebas del pago hecho ante posibles
-problemas</mark></td>
+problemas</td>
 <td>8</td>
 </tr>
 <tr class="even">
 <td>19</td>
 <td>US19</td>
 <td>Revisar valoraciones y reseñas sobre guías</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> poder
+<td><strong>Como</strong> turista, <strong>quiero</strong> poder
 leer las valoraciones y reseñas dejadas por otros
 <strong>turista</strong>s sobre los guías turísticos,
 <strong>para</strong> tomar decisiones informadas al elegir un guía para
-mi viaje</mark></td>
+mi viaje</td>
 <td>2</td>
 </tr>
 <tr class="odd">
 <td>20</td>
 <td>US20</td>
 <td>Generar valoraciones y reseñas sobre guías</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> tener
+<td><strong>Como</strong> turista, <strong>quiero</strong> tener
 la opción de dejar una valoración y reseña sobre mi experiencia con un
 guía turístico después de completar un tour, <strong>para</strong>
 compartir mi opinión y ayudar a otros <strong>turista</strong>s en su
-elección</mark></td>
+elección</td>
 <td>3</td>
 </tr>
 <tr class="even">
 <td>21</td>
 <td>US21</td>
 <td>Compartir experiencias en redes sociales</td>
-<td><mark><strong>Como</strong> turista, <strong>quiero</strong> tener
+<td><strong>Como</strong> turista, <strong>quiero</strong> tener
 la opción de compartir mis experiencias de viaje y tours con un guía
 turístico en mis redes sociales directamente desde la plataforma
 <strong>para</strong> que mis conocidos vean el servicio
-brindado</mark></td>
+brindado</td>
 <td>3</td>
 </tr>
 <tr class="odd">
 <td>22</td>
 <td>US22</td>
 <td>Gestionar servicio de turista</td>
-<td><mark><strong>Como</strong> guía, <strong>quiero</strong> tener la
+<td><strong>Como</strong> guía, <strong>quiero</strong> tener la
 capacidad de gestionar las reservas y solicitudes de servicios de
 turistas, <strong>para</strong> garantizar una planificación y ejecución
-eficientes de los tours</mark></td>
+eficientes de los tours</td>
 <td>5</td>
 </tr>
 <tr class="even">
 <td>23</td>
 <td>US23</td>
 <td>Ver métricas de rendimiento</td>
-<td><mark><strong>Como</strong> guía, <strong>quiero</strong> tener
+<td><strong>Como</strong> guía, <strong>quiero</strong> tener
 acceso a métricas de rendimiento, <strong>Como</strong> el número de
 tours realizados, la satisfacción del cliente y las valoraciones
 recibidas, <strong>para</strong> evaluar y mejorar mi desempeño como
-guía turístico</mark></td>
+guía turístico</td>
 <td>5</td>
 </tr>
 <tr class="odd">
 <td>24</td>
 <td>US24</td>
 <td>Ver historial de turistas atendidos</td>
-<td><mark><strong>Como</strong> guía, <strong>quiero</strong> tener
+<td><strong>Como</strong> guía, <strong>quiero</strong> tener
 acceso a un historial de turistas que he atendido en el pasado,
 incluyendo sus datos de contacto y detalles de los tours realizados,
 <strong>para</strong> mantener un registro organizado y poder brindar un
-mejor servicio en futuras interacciones</mark></td>
+mejor servicio en futuras interacciones</td>
 <td>5</td>
 </tr>
 <tr class="even">
 <td>25</td>
 <td>US25</td>
 <td>Personalizar ofertas</td>
-<td><mark><strong>Como</strong> guía, <strong>quiero</strong> tener la
+<td><strong>Como</strong> guía, <strong>quiero</strong> tener la
 capacidad de personalizar las ofertas y los itinerarios de los tours
 según las preferencias y necesidades específicas de los turistas,
 <strong>para</strong> ofrecer experiencias de viaje más personalizadas y
-memorables</mark></td>
+memorables</td>
 <td>3</td>
 </tr>
 <tr class="odd">
 <td>26</td>
 <td>US26</td>
 <td>Ver detalles generales del servicio</td>
-<td><mark><strong>Como</strong> visitante, <strong>quiero</strong> poder
+<td><strong>Como</strong> visitante, <strong>quiero</strong> poder
 ver detalles generales del landing page <strong>para</strong> tener un
-panorama general de lo ofrecido en la plataforma web.</mark></td>
+panorama general de lo ofrecido en la plataforma web.</td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>27</td>
 <td>US27</td>
 <td>Ver misión y visión del proyecto</td>
-<td><mark><strong>Como</strong> visitante, <strong>quiero</strong> poder
+<td><strong>Como</strong> visitante, <strong>quiero</strong> poder
 ver la misión y visión del proyecto, <strong>para</strong> poder revisar
-los valores de la empresa y poder usar sus servicios</mark></td>
+los valores de la empresa y poder usar sus servicios</td>
 <td>2</td>
 </tr>
 <tr class="odd">
 <td>28</td>
 <td>US28</td>
 <td>Revisar los servicios ofrecidos</td>
-<td><mark><strong>Como</strong> visitante, <strong>quiero</strong> tener
+<td><strong>Como</strong> visitante, <strong>quiero</strong> tener
 acceso a pestaña de comunidad, donde pueda observar comentarios de
 usuarios de la plataforma web, <strong>para</strong> poder animarme a
-usarla</mark></td>
+usarla</td>
 <td>5</td>
 </tr>
 <tr class="even">
 <td>29</td>
 <td>US29</td>
 <td>Obtener contacto con los administradores</td>
-<td><mark><strong>Como</strong> visitante, <strong>quiero</strong> tener
+<td><strong>Como</strong> visitante, <strong>quiero</strong> tener
 la opción de ponerme en contacto con los administradores de la
 plataforma <strong>para</strong> realizar consultas, reportar problemas
-o solicitar asistencia adicional cuando sea necesario</mark></td>
+o solicitar asistencia adicional cuando sea necesario</td>
 <td>3</td>
 </tr>
 </tbody>
